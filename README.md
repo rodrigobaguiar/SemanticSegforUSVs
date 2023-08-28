@@ -24,7 +24,7 @@ Both datasets can be found in [Obstacle Detection in a Marine Environment (vicos
 ### Code Usage
 Unzip Mastr1325 and Mastr1325_Augmented datasets in its folders. By default, the predictions are made using frames of MODD dataset videos. Download MODD and use the convert.py python script to extract all video frames. Change the paths in the begining of notebook and run it.
 
-In the root folder, there is a script when you can create new data augmentation workflows. Again, just change the paths and run it to increase your training data
+In the root folder, there is a script where you can create new data augmentation workflows. Again, just change the paths and run it to increase your training data
 
 
 

@@ -26,5 +26,18 @@ Unzip Mastr1325 and Mastr1325_Augmented datasets in its folders. By default, the
 
 In the root folder, there is a script where you can create new data augmentation workflows. Again, just change the paths and run it to increase your training data
 
+### Cite this paper
 
+```
+@INPROCEEDINGS{10332991,
+  author={Aguiar, Rodrigo and Bertini, Luciano and Copetti, Alessandro and Clua, Esteban Walter Gonzalez and Gonçalves, Luiz Marcos Garcia and Moreira, Leonard Barreto},
+  booktitle={2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE)}, 
+  title={Semantic Segmentation and Regions of Interest for Obstacles Detection and Avoidance in Autonomous Surface Vessels}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={403-408},
+  doi={10.1109/LARS/SBR/WRE59448.2023.10332991}
+}
 
+```
